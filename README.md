@@ -9,12 +9,10 @@
 # ✨ 洛曦 AI  ✨
 
 [![][python]][python]
-[![][github-release-shield]][github-release-link]
 [![][github-stars-shield]][github-stars-link]
 [![][github-forks-shield]][github-forks-link]
 [![][github-issues-shield]][github-issues-link]  
 [![][github-contributors-shield]][github-contributors-link]
-[![][github-license-shield]][github-license-link]
 
 </div>
 
@@ -48,7 +46,7 @@ python: 3.10
 QQ频道：[https://pd.qq.com/s/f247aeq3j](https://pd.qq.com/s/f247aeq3j)  
 
 <div>
-  <img src="https://github.com/user-attachments/assets/57b1f968-9519-488d-8a35-7ca95408ea80" style="width: 200px;">
+  <img src="https://github.com/user-attachments/assets/57b1f968-9519-488d-8a35-7ca95408ea80" style="width: 250px;">
 </div>
 
 
