@@ -47,12 +47,9 @@ python: 3.10
 
 QQ频道：[https://pd.qq.com/s/f247aeq3j](https://pd.qq.com/s/f247aeq3j)  
 
-![55390b44da5e34c861cebc6e3f7f41ef](https://github.com/user-attachments/assets/57b1f968-9519-488d-8a35-7ca95408ea80)
-
-
-## ⭐️ Star 经历
-
-[![Star History Chart](https://api.star-history.com/svg?repos=LuoXi-Project/LX_Project_Template&type=Date)](https://star-history.com/#LuoXi-Project/LX_Project_Template&Date)
+<div>
+  <img src="https://github.com/user-attachments/assets/57b1f968-9519-488d-8a35-7ca95408ea80" style="width: 200px;">
+</div>
 
 
 
