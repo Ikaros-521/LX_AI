@@ -37,7 +37,7 @@ python: 3.10
 
 购买咨询：QQ:327209194  
 
-
+QQ频道：[https://pd.qq.com/s/f247aeq3j](https://pd.qq.com/s/f247aeq3j)  
 
 ## ⭐️ Star 经历
 
