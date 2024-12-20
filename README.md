@@ -35,6 +35,10 @@ python: 3.10
 
 洛曦AI官方网站：[https://ikaros.us.kg/](https://ikaros.us.kg/)  
 
+购买咨询：QQ:327209194  
+
+
+
 ## ⭐️ Star 经历
 
 [![Star History Chart](https://api.star-history.com/svg?repos=LuoXi-Project/LX_Project_Template&type=Date)](https://star-history.com/#LuoXi-Project/LX_Project_Template&Date)
