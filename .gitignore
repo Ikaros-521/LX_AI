@@ -1,0 +1,10 @@
+Miniconda3/
+Miniconda310/
+__pycache__/
+
+log.txt
+1.py
+out/*.png
+
+tests/
+output/
