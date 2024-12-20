@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# ✨ 洛曦 项目模板  ✨
+# ✨ 洛曦 AI  ✨
 
 [![][python]][python]
 [![][github-release-shield]][github-release-link]
@@ -20,41 +20,25 @@
 
 ## 前言
 
+### 主旨
+
+系统：Windows 10、Linux、MacOS  
+开发环境：Python 3.10  
+技术栈：FastAPI、LayUI、SQLite  
+
 
 ## 环境
 
 python: 3.10  
 
-## 安装
+## 下载
 
-安装依赖：`pip install -r requirements.txt`  
-
-## 运行
-
-
-## 💡 提问的智慧
-
-提交issues前请先阅读以下内容
-
-https://lug.ustc.edu.cn/wiki/doc/smart-questions
-
-## 🀅 开发&项目相关
-
-可以使用 GitHub Codespaces 进行在线开发：
-
-[![][github-codespace-shield]][github-codespace-link]  
-
-
+洛曦AI官方网站：[https://ikaros.us.kg/](https://ikaros.us.kg/)  
 
 ## ⭐️ Star 经历
 
 [![Star History Chart](https://api.star-history.com/svg?repos=LuoXi-Project/LX_Project_Template&type=Date)](https://star-history.com/#LuoXi-Project/LX_Project_Template&Date)
 
-
-## 更新日志
-
-- 2024-10-08
-    - 初版demo发布
 
 
 [python]: https://img.shields.io/badge/python-3.10+-blue.svg?labelColor=black
