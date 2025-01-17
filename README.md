@@ -27,6 +27,7 @@ AI集成：对接主流LLM、TTS
 多平台支持：Windows/Linux/Mac OS  
 
 视频教程：[https://space.bilibili.com/3709626/lists/4391504](https://space.bilibili.com/3709626/lists/4391504)  
+使用问题：[https://github.com/Ikaros-521/LX_AI/issues](https://github.com/Ikaros-521/LX_AI/issues)  
 
 ### 架构
 
