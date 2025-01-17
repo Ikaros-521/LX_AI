@@ -26,6 +26,8 @@ AI 无人直播系统
 AI集成：对接主流LLM、TTS  
 多平台支持：Windows/Linux/Mac OS  
 
+视频教程：[https://space.bilibili.com/3709626/lists/4391504](https://space.bilibili.com/3709626/lists/4391504)  
+
 ### 架构
 
 系统：Windows 10、Linux、MacOS  
